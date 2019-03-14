@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         //Hola Mundo
         //Tengo Hambre
         //Vive y deja morir
+        //Moore
     }
     @IBAction func Go(_ sender: Any) {
         let h = Double(alturaTxt.text!)
