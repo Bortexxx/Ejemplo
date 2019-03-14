@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         //Hola Mundo
         //Tengo Hambre
+        //Vive y deja morir
     }
     @IBAction func Go(_ sender: Any) {
         let h = Double(alturaTxt.text!)
